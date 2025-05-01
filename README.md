@@ -30,10 +30,13 @@ git clone https://github.com/seu-usuario/calculadora-imc.git
 
 3. Insira seu peso (em kg) e altura (em metros), clique em "Calcular", e veja o resultado.
 
-##🖥️ Tecnologias utilizadas
+## 🖥️ Tecnologias utilizadas
+
 ✅ HTML5
 
 ✅ CSS3
 
 ✅ JavaScript (puro)
+
+![Preview da Calculadora](preview.png)
 
