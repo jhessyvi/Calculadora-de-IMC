@@ -38,5 +38,7 @@ git clone https://github.com/seu-usuario/calculadora-imc.git
 
 ✅ JavaScript (puro)
 
+## Preview da Calculadora
+
 ![Preview da Calculadora](preview.png.png)
 
